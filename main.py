@@ -1,1 +1,1 @@
-print("i nichego ne delal")
+print("i nichego ne delal")dasd
