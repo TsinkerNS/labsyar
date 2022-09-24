@@ -1,1 +1,1 @@
-return 1
+print('lab 1') 
